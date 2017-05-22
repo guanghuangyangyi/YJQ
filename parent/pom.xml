@@ -30,6 +30,11 @@
     <module>iservice</module>
     <module>serviceimpl</module>
     <module>ssm_serviceimpl</module>
+    <module>ssh_dao</module>
+    <module>ssh_idao</module>
+    <module>idao</module>
+    <module>daoimpl</module>
+    <module>ssh_daoimpl</module>
   </modules>
   
    <build>
